@@ -1940,7 +1940,7 @@
     "jest-specific-snapshot": "^8.0.0",
     "jest-styled-components": "7.0.3",
     "jsdom": "^20.0.1",
-    "json-schema-typed": "^8.0.1",
+    "json-schema-typed": "^8.0.2",
     "json5": "^2.2.3",
     "keyv": "^5.3.4",
     "license-checker": "^25.0.1",
